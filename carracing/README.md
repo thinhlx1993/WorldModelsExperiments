@@ -3,6 +3,13 @@
 Step by step instructions of reproducing CarRacing experiment.
 
 # Notes
+-sudo apt install libopenmpi-dev swig
+
+-pip install box2d box2d-kengz
+
+-pip install pyglet==1.2.4
+
+-Scipy 1.1.0
 
 -TensorFlow 1.8.0
 
